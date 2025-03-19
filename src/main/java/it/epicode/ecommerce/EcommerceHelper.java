@@ -19,9 +19,9 @@ public class EcommerceHelper {
     public static List<Customer> getClienti() {
         return List.of(
             new Customer(1L,"Gino", 1),
-            new Customer(2L,"Roberto", 3),
+            new Customer(2L,"Roberto", 2),
             new Customer(3L,"Andrea", 2),
-            new Customer(4L,"Sandro", 3),
+            new Customer(4L,"Sandro", 2),
             new Customer(5L,"Marcello", 2),
             new Customer(6L,"Mattia", 2),
             new Customer(7L,"Stefano", 3)
